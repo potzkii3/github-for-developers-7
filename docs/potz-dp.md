@@ -4,5 +4,6 @@
  - [ ] Philippines
  - [ ] Potatoes!
  - [ ] Self-study
+ - **Favorite color:** __Black__
 
 * **I really don't know what I am doing here but yeah, I wanna learn so here it is. Lol**
