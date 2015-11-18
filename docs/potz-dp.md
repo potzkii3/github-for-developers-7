@@ -1,5 +1,4 @@
 ##From issue #3
-
  - [ ] [John Emmanuel Dela Peña](http://www.facebook.com/potzkii3)
  - [ ] Philippines
  - [ ] Potatoes!
