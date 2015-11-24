@@ -1,8 +1,8 @@
 ##From issue #3
- - [ ] [John Emmanuel Dela Peña](http://www.facebook.com/potzkii3)
- - [ ] Philippines
- - [ ] Potatoes!
- - [ ] Self-study
- - **Favorite color:** __Black__
+ **- Name: Potz DP
+ - Location: Philippines
+ - Favorite Food: Potatoes!
+ - Hobby: Nothing
+ - Favorite Color: Black**
 
-* **I really don't know what I am doing here but yeah, I wanna learn so here it is. Lol**
+ *_Just creating a remark, nothing really special here._
